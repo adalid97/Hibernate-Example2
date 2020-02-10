@@ -1,4 +1,4 @@
-# Hibernate-Example2
+# Hibernate Example DAO
 
 ```sql
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
